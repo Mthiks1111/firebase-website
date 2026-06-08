@@ -8,4 +8,8 @@ json
       "**/node_modules/**"
     ]
   }
+{
+  "projects": {
+    "default": "brinkaid-c1003"
+  }
 }
