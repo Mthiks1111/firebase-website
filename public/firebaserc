@@ -3,3 +3,13 @@
     "default": "brinkaid-c1003"
   }
 }
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
